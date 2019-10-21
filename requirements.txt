@@ -29,7 +29,7 @@ setupfiles==0.0.50
 six==1.10.0
 twilio==6.4.1
 urllib3==1.21.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wikipedia==1.4.0
 wolframalpha==3.0
 xmltodict==0.11.0
