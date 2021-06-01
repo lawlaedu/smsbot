@@ -28,7 +28,7 @@ requests==2.18.1
 setupfiles==0.0.50
 six==1.10.0
 twilio==6.4.1
-urllib3==1.21.1
+urllib3==1.26.5
 Werkzeug==0.12.2
 wikipedia==1.4.0
 wolframalpha==3.0
